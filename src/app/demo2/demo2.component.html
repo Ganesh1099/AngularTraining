@@ -1,0 +1,22 @@
+<p>demo2 works!</p>
+<table class="table">
+    <thead>
+        <th>ID</th>
+        <th>Name</th>
+        <th>HTML URL</th>
+        <TH>GIT URL</TH>
+    </thead>
+    <tbody>
+        <tr *ngFor="let entry of data;">
+<td>{{entry.id}}</td>
+<td>{{entry.name}}</td>
+<td>{{entry.html_url}}</td>
+<td>{{entry.git_url}}</td>
+
+
+        </tr>
+    </tbody>
+</table>
+<button (click)="method()">click</button>
+<input type="text">
+<!-- {{data|json}} -->

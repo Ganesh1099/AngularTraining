@@ -1,0 +1,21 @@
+[{
+    "Name":"Ganesh",
+    "Id":1,
+    "Role":"Trainee"
+},
+
+{
+    "Name":"Sudhanshu",
+    "Id":2,
+    "Role":"Trainee"
+},
+{
+    "Name":"Arun",
+    "Id":3,
+    "Role":"Trainee"
+},
+{
+    "Name":"Ashok",
+    "Id":4,
+    "Role":"Trainee"
+}]
